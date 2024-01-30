@@ -1,6 +1,4 @@
-# WarchallChallenge---STD23033
-
-Warchall - The Beginning
+# Warchall - The Beginning
 
 Congratulations! You are now on your way to becoming a Linux superhacker.
 
@@ -12,7 +10,7 @@ Connect to the our count ssh,using this commande ssh -p 19198 pseudo@warchall.ne
 ```
   ssh -p 19198 freddy@warchall.net
 ```
-Level 0
+## Level 0
 
 1- Use the ls command to display the contents of the current folder: ls
 ```
@@ -31,7 +29,7 @@ Level 0
   cd 00_WELCOME;
   cat README.md
 ```
-Level 1
+## Level 1
 
 1- Open the 01_choice_tree directory using cd:
 ```
@@ -46,7 +44,7 @@ Level 1
   cd ./blue/hats/grey/solution ;
   cat SOLUTION.txt
 ```
-Level 2
+## Level 2
 
 1- Open the 02 directory using cd:
 ```
@@ -61,7 +59,7 @@ Level 2
   cd ./porb
   cat ./.solution
 ```
-Level 3
+## Level 3
 
 1- Open the 03 directory using cd:
 ```
@@ -75,7 +73,7 @@ Level 3
 ```
   cat ./.bash_history
 ```
-Level 4
+## Level 4
 
 1- Open the 04_kwisatz directory using cd:
 ```
@@ -97,7 +95,7 @@ Level 4
 ```
   cat ./level/04_kwisatz/README2.md
 ```
-Level 5
+## Level 5
 
 1- Open the 05_privacy directory using cd:
 ```
