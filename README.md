@@ -8,7 +8,7 @@ Example: "bitwarrior, Solution1, Solution2, Solution3, Solution4, Solution5"
 
 Connect to the our count ssh,using this commande ssh -p 19198 pseudo@warchall.net
 ```
-  ssh -p 19198 freddy@warchall.net
+  ssh -p 19198 fandresena@warchall.net
 ```
 ## Level 0
 
@@ -22,7 +22,7 @@ Connect to the our count ssh,using this commande ssh -p 19198 pseudo@warchall.ne
 ```
 3- Navigate to the directory containing the challenge mentioned in the WELCOME.md file:
 ```
-  /home/level/ or /home/user/freddy/level
+  /home/level/ or /home/user/fandresena/level
 ```
 4- Open the 00_WELCOME directory using the cd command and read the README.md file to find the solution:
 ```
